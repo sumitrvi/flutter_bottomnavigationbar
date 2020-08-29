@@ -1,6 +1,6 @@
 # bottom_navigator
 
-A new Flutter application.
+This is the examples which demonstrate how to integrate bottomnavigationbar on app.
 
 ## Getting Started
 
@@ -10,6 +10,7 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Bottomnavigation reference](https://api.flutter.dev/flutter/material/BottomNavigationBar-class.html)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
